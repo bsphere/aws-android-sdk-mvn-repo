@@ -1,0 +1,6 @@
+<distributionManagement>
+	<repository>
+		<id>repo</id>
+		<url>https://github.com/bsphere/aws-android-sdk-mvn-repo/raw/master/releases</url>
+	</repository>
+</distributionManagement>
